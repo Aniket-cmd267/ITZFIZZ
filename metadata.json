@@ -1,0 +1,6 @@
+{
+  "name": "ITZFIZZ - Scroll-Driven Car Hero Animation",
+  "description": "Pixel-accurate scroll-driven McLaren sports car hero animation with green trail, letter-by-letter reveal, and progressive metric cards built with React, Tailwind CSS, and GSAP ScrollTrigger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
